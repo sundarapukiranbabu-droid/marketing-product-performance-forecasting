@@ -78,6 +78,3 @@ R² Score
 
 Gradient Boosting achieved the strongest overall forecasting performance and demonstrated high robustness across different evaluation scenarios. Therefore, Gradient Boosting is recommended as the final model for deployment in e-commerce sales forecasting applications.
 
-## Author
-
-Machine Learning Assignment – Supervised Learning

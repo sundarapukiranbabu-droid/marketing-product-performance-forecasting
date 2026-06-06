@@ -1,0 +1,11 @@
+Feature,Importance
+num__unit_price_gbp,0.6310994894212875
+num__quantity_sold,0.337656063381125
+num__order_hour,0.004533724579947297
+num__gdp_current_usd,0.0031835877877756068
+num__week_of_year,0.0022112568836614548
+num__gdp_growth_pct,0.0021853056143210994
+num__population_total,0.0020316031160273855
+cat__country_code_NOR,0.0017007328727386957
+num__month,0.0015808921356831687
+cat__country_Japan,0.0013767677775794627

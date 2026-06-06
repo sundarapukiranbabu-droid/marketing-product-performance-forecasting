@@ -1,0 +1,6 @@
+Criterion,Linear Regression,Decision Tree,Random Forest,Gradient Boosting
+Predictive Performance,2,4,5,5
+Interpretability,5,5,4,3
+Robustness,2,3,5,5
+Computational Cost,5,4,3,3
+Deployment Suitability,5,5,5,4
